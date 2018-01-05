@@ -1,2 +1,2 @@
 # python_timelapse
-timelapse script for xperia x compact
+timelapse qpython3 script for xperia x compact
